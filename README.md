@@ -1,36 +1,45 @@
 # Hi, I'm Mazen 👋
 
-### Cybersecurity & Networking Learner
+### 🛡️ Cybersecurity & Networking Learner
 
-I'm building my skills in **Cybersecurity, Computer Networking, Linux, and Security Operations** through hands-on learning and practical projects.
+I'm building practical skills in **Cybersecurity, Computer Networking, Linux, Python, and Security Operations** through hands-on labs and documented projects.
 
-## 🛡️ Focus Areas
+## 🔐 Focus Areas
 
-- 🔐 Cybersecurity fundamentals
-- 🌐 Networking & network security
-- 🐧 Linux
-- 🧪 Security labs & CTF-style practice
-- ⚙️ Git & GitHub
-
-## 📚 Currently Learning
-
-- Network security concepts
-- Security tools and troubleshooting
-- Practical defensive security
-- Automation and scripting
+- Network & network security fundamentals
+- Linux and security operations
+- Defensive log analysis
+- File integrity monitoring
+- Python automation
+- CTF-style security learning
 
 ## 🧰 Tools & Technologies
 
-`Linux` `Git` `GitHub` `Networking` `Python` `Bash` `Cybersecurity`
+`Python` `Bash` `Linux` `Git` `GitHub` `Networking` `Cybersecurity`
 
-## 🚀 Goals
+## 🚀 Security Projects
 
-Build real-world security projects, improve my networking foundation, and develop practical skills for a career in cybersecurity.
+| Project | What it demonstrates |
+|---|---|
+| 🔎 [SSH Log Analyzer](projects/ssh-log-analyzer/) | Authentication-log analysis and alert thresholds |
+| 🔐 [File Integrity Monitor](projects/file-integrity-monitor/) | SHA-256 integrity baselines and change detection |
+| 🔑 [Password Strength Checker](projects/password-strength-checker/) | Safe local password-policy education |
+| 🛡️ [Security Lab Suite](projects/security-lab-suite/) | Organized defensive security exercises |
 
-## 📌 Projects
+## 🧪 Engineering Practices
 
-More hands-on projects coming soon.
+- Pull requests and feature branches
+- Unit testing
+- GitHub Actions CI
+- Security documentation
+- Small, reviewable commits
 
----
+## 📚 Currently Learning
 
-⭐ Feel free to explore my repositories as I build and document my cybersecurity journey.
+Networking, network security, Linux administration, defensive security, automation, and practical troubleshooting.
+
+## 🎯 Goal
+
+Build a strong hands-on foundation for a career in cybersecurity and security operations.
+
+> All projects are intended for authorized defensive learning and local analysis only.
