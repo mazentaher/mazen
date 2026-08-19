@@ -33,10 +33,15 @@ I'm building practical skills in **Cybersecurity, Computer Networking, Linux, Py
 - GitHub Actions CI
 - Security documentation
 - Small, reviewable commits
+- Automated dependency updates for GitHub Actions
 
 ## 📚 Currently Learning
 
 Networking, network security, Linux administration, defensive security, automation, and practical troubleshooting.
+
+## 🗺️ Roadmap
+
+See the [Security Portfolio Roadmap](docs/ROADMAP.md) for planned labs and improvements.
 
 ## 🎯 Goal
 
