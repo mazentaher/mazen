@@ -1,8 +1,13 @@
-import tempfile
+import importlib.util
 import unittest
 from pathlib import Path
 
-from projects.password_strength_checker.checker import assess
+
+CHECKER = Path(__file__).parents[1] / "projects" / "password-strength-checker" / "checker.py"
+spec = importlib.util.spec_from_file_location("password_checker", CHECKER)
+module = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(module)
+assess = module.assess
 
 
 class SecurityToolsTests(unittest.TestCase):
